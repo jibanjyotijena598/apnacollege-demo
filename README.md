@@ -1,4 +1,5 @@
 # apnacollege-demo
 this is my first git repository
 <br>
-author - shradhakhapra
+author - shradha (apna collage)
+
